@@ -77,6 +77,12 @@ footer {
   font-weight: 700;
 }
 
+.hero .tagline {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
 .promotion {
   padding: 16px 18px;
   border-left: 4px solid #c87542;

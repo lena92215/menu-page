@@ -1,5 +1,7 @@
 # 校園外送菜單頁面 Starter
 
+作者：EUGENIA <lena92215@gmail.com>
+
 這是 Day 3 Git 分支與 Pull Request 練習用的靜態網站。
 
 ## 開啟方式
